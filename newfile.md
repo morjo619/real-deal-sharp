@@ -11,5 +11,6 @@
 **bold font**
 
 #create a checklist with brackets
-- [] checklist 
+- [] checklist
+  [] checklist
 
